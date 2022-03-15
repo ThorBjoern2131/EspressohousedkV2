@@ -17,7 +17,7 @@
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
-    <meta name="keywords" content="Espresso house,"
+    <meta name="keywords" content="Espresso house,">
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
     <link href="css/styles.scss" rel="stylesheet" type="text/css">
 
