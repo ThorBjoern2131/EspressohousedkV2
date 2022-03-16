@@ -35,6 +35,11 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
+<a href="index.php">
+    <div class="Logo">
+        <img class="Logo" src="images/EspressoLogo.png" alt="Espresso Logo">
+    </div> </a>
+
 <div class="header">
     <h1 style="font-size:100px;" id="grad1">Espresso House</h1>
 </div>
@@ -65,7 +70,7 @@
     <div class="rightcolumn" style="background-color:#f1f1f1;">
         <div class="card">
             <h2>EspressoHouseDK</h2>
-            <img class="img" src="images/Billede2.jpg" alt="Error 404 Image Not Found" style="width:600px;height:300px">
+            <img class="img" src="images/EspressoApp2.jpg" alt="Error 404 Image Not Found" style="width:600px;height:300px">
             <p>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM</p>
         </div>
         <div class="card">
