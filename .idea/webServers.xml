@@ -5,6 +5,9 @@
       <webServer id="e280f46b-7248-4f8f-b311-7cbabb509a26" name="WAMP" url="http://localhost">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="147a9e41-8fc4-44d5-9e09-8bdce9adf010" name="MAMP" url="http://localhost:8888">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </project>
