@@ -41,14 +41,12 @@
     </div> </a>
 
 <div class="header">
-    <h1 style="font-size:100px;" id="grad1">Espresso House</h1>
-</div>
-
-<div class="topnav">
-    <a href="index.php" style="font-size:30px;">Om os</a>
-    <a href="OmOs.php" style="font-size:30px;">App</a>
-    <a href="App.php" style="font-size:30px;">kaffebarer</a>
-    <a href="Kaffebarer.php" style="font-size:30px;">App</a>
+        <div class="topnav">
+            <a href="index.php" style="font-size:30px;">Om os</a>
+            <a href="OmOs.php" style="font-size:30px;">App</a>
+            <a href="App.php" style="font-size:30px;">kaffebarer</a>
+            <a href="Kaffebarer.php" style="font-size:30px;">App</a>
+        </div>
 </div>
 
 <div class="row">
