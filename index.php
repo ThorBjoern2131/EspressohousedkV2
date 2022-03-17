@@ -37,12 +37,11 @@
 
 <a href="index.php">
     <div class="Logo">
-        <img class="Logo" src="images/EspressoLogo.png" alt="Espresso Logo">
-    </div> </a>
+            <img class="Logo" src="images/EspressoLogo.png" alt="Espresso Logo">
+        </div></a>
+<br><br>
 
-<div class="header">
-    <h1 style="font-size:100px;" id="grad1">Espresso House</h1>
-</div>
+
 
 <div class="topnav">
     <a href="index.php" style="font-size:30px;">Om os</a>
