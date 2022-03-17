@@ -59,7 +59,7 @@
         <div class="card">
             <h2>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM</h2>
             <p>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM
-            <img class="Hero" src="images/EspressoApp1.jpg" alt="Error 404 Image Not Found" style="width:1400px;height:800px;">
+            <center><img class="Hero" src="images/EspressoApp1.jpg" alt="Error 404 Image Not Found" style="width:1400px;"></center>
             <br>
             <p>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM</p>
             <p>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM</p>
