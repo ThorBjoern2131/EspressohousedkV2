@@ -47,7 +47,7 @@
 <div class="topnav">
     <a href="index.php" style="font-size:30px;">Home</a>
     <a href="OmOs.php" style="font-size:30px;">Om Os</a>
-    <a href="App.php" style="font-size:30px;">kaffebarer</a>
+    <a href="App.php" style="font-size:30px;">Kaffebarer</a>
     <a href="Kaffebarer.php" style="font-size:30px;">App</a>
 </div>
 
