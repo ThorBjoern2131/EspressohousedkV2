@@ -38,6 +38,7 @@
 <body>
 
 <div class="grid-container">
+    <div class="empty"></div>
     <a href="index.php">
         <div class="Logo">
             <img class="Logo" src="images/EspressoLogo.png" alt="Espresso Logo">
@@ -62,49 +63,31 @@
                 Kom forbi et af vores mange lokationer, hvor du enten kan nyde noget varmt med en bekendt eller noget koldt over en bog. <br></center>
             <center><img class="Hero" src="images/EspressoApp1.jpg" alt="Error 404 Image Not Found" style="width:1400px;"></center>
             <br>
-            <p>I denne måned kører vi 10% rabat på hele vores sortiment af varm chokolade. <br>
-                Alt på vores kaffe menu kan alternativt laves plantebaseret, så den passer til en hver smag.
-            </p>
+            <p>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM</p>
+            <p>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM</p>
             <br>
+            <h3>twitter.com/EspressoHouseDK</h3>
+            <br>
+            <h3>Email - EspressoHouseDK.com</h3>
         </div>
     </div>
     
 
 <div class="grid-container">
+    <div class="topnav2">
+        <i class="fab fa-facebook" style="font-size:50px" >Espresso House Denmark</i>
+        <div class="insta">
+            <i class="fab fa-instagram" style="font-size:50px;margin-right: 20%">EspressoHouse_Denmark</i>
+        </div>
+        <div class="twitter">
+            <i class="fab fa-twitter" style="font-size:50px;margin-right: 20%">EspressoHouse_</i>
+        </div>
+        <div class="twitter">
+            <i class="fab fa-mail" style="font-size:50px;margin-right: 20%">info_dk@espressohouse.com</i>
+        </div>
+    </div>
 </div>
 <br>
-    <footer>
-        <nav>
-            <p class="footl">Åbningstider:
-                <br>
-                Mandag-Fredag: 07:00 - 19:00
-                <br>
-                Lørdag: 08:00 - 18:00
-                <br>
-                Søndag: 09:00 - 18:00
-            </p>
-        </nav>
-        <div class="topnav2">
-            <i class="fab fa-facebook" style="font-size:20px";>Espresso House Denmark</i>
-            <div class="insta">
-                <i class="fab fa-instagram" style="font-size:20px;margin-right: 20%">EspressoHouse_Denmark</i>
-            </div>
-            <div class="twitter">
-                <i class="fab fa-twitter" style="font-size:20px;margin-right: 20%">EspressoHouse_Denmark</i>
-            </div>
-            <div class="twitter">
-            </div>
-        </div>
-        <nav>
-            <p class="footr">
-                Espresso House
-                <br>
-                info_dk@espressohouse.com
-            </p>
-        </nav>
-    </footer>
-
-
 
 </body>
 </html>
