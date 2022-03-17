@@ -21,7 +21,7 @@
     <meta property="og:title" content="Espresso house - Passionate About Coffe"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="https://www.EspressohousedkV2.dk"/>
-    <meta property="og:image" content=""/>
+    <meta property="og:image" content="https://www.EspressohouseskV2.dk/images/EspressoLogo.png"/>
     <meta property="og:description" content=""/>
     <meta property="og:locale" content="da_DK"
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
