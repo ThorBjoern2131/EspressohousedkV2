@@ -44,16 +44,14 @@
             <img class="Logo" src="images/EspressoLogo.png" alt="Espresso Logo">
         </div> </a>
 </div>
-
-<div class="header">
-    <div class="topnav">
-        <a href="index.php" style="font-size:30px;">Home</a>
-        <a href="OmOs.php" style="font-size:30px;">Om Os</a>
-        <a href="App.php" style="font-size:30px;">Kaffebarer</a>
-        <a href="Kaffebarer.php" style="font-size:30px;">App</a>
+    <div class="header">
+        <div class="topnav">
+            <a href="index.php" style="font-size:30px;">Home</a>
+            <a href="OmOs.php" style="font-size:30px;">Om Os</a>
+            <a href="App.php" style="font-size:30px;">Kaffebarer</a>
+            <a href="Kaffebarer.php" style="font-size:30px;">App</a>
+        </div>
     </div>
-</div>
-
 <div class="row">
     <div class="leftcolumn" style="background-color:#f1f1f1;">
         <div class="card">

@@ -67,17 +67,16 @@ img {
 
 .header{
   display:grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr;
-  display-inside: flex;
-  justify-content: center;
+  grid-template-columns: auto;
+  grid-template-rows: repeat(1, 1fr);
   list-style: none;
   gap: 2%;
   text-decoration: none;
   margin-top: 2%;
   color: #111;
   font-size: 3.5vw;
-
+  grid-column: 1/4;
+  grid-row: 1/2;
 }
 
 /* Style the top navigation bar "Title" */
