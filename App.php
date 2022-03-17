@@ -41,7 +41,7 @@
 
 
 <div class="header">
-    <h1 id="grad1"><a href="index.php" style="font-size:100px;color:black;text-decoration: none">Espresso House<a/></h1>
+    <h1 id="grad1"><a href="index.php" style="font-size:100px;color:black;text-decoration: none">Espresso House</a></h1>
 </div>
 
 <div class="topnav">
