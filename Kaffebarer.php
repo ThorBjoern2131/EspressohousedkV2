@@ -39,14 +39,10 @@
         <img class="Logo" src="images/EspressoLogo.png" alt="Espresso Logo">
     </div> </a>
 
-<div class="header">
-    <h1 id="grad1"><a href="index.php" style="font-size:100px;color:black;text-decoration: none"></a>Espresso House</h1>
-</div>
-
 <div class="topnav">
-    <a href="index.php" style="font-size:30px;">Om os</a>
-    <a href="OmOs.php" style="font-size:30px;">App</a>
-    <a href="App.php" style="font-size:30px;">kaffebarer</a>
+    <a href="index.php" style="font-size:30px;">Home</a>
+    <a href="OmOs.php" style="font-size:30px;">Om Os</a>
+    <a href="App.php" style="font-size:30px;">Kaffebarer</a>
     <a href="Kaffebarer.php" style="font-size:30px;">App</a>
 </div>
 
