@@ -9,6 +9,8 @@
     <!-- Sætter tegnsætning til utf-8 som bl.a. tillader danske bogstaver -->
     <meta charset="utf-8">
 
+    <script src="https://kit.fontawesome.com/26e840afe9.js" crossorigin="anonymous"></script>
+
     <!-- Titel som ses oppe i browserens tab mv. -->
     <title>Espresso House - Passionate About Coffee</title>
 
@@ -42,18 +44,49 @@
         </div> </a>
 </div>
 
-
 <div class="topnav">
-    <a href="index.php" style="font-size:30px;font-family: Arial;">Home</a>
-    <a href="OmOs.php" style="font-size:30px;font-family: Arial;">Om Os</a>
-    <a href="App.php" style="font-size:30px;font-family: Arial;">Kaffebarer</a>
-    <a href="Kaffebarer.php" style="font-size:30px;font-family: Arial;">App</a>
+    <a href="index.php" style="font-size:30px;font-family: Arial,serif;">Home</a>
+    <a href="OmOs.php" style="font-size:30px;font-family: Arial,serif;">Om Os</a>
+    <a href="App.php" style="font-size:30px;font-family: Arial,serif;">Kaffebarer</a>
+    <a href="Kaffebarer.php" style="font-size:30px;font-family: Arial,serif;">App</a>
 </div>
 
 <br><br><br>
 <h1 style="text-align:center">Error 404 Page Not Found</h1>
 
 <center><img class="img" src="images/404coffee.png" alt="Error 404 Image Not Found" style="width:500px;height:500px;"></center>
+
+<footer>
+    <nav>
+        <p class="footl">Åbningstider:
+            <br>
+            Mandag-Fredag: 07:00 - 19:00
+            <br>
+            Lørdag: 08:00 - 18:00
+            <br>
+            Søndag: 09:00 - 18:00
+        </p>
+    </nav>
+    <div class="topnav2">
+        <i class="fab fa-facebook" style="font-size:20px">Espresso House Denmark</i>
+        <div class="insta">
+            <i class="fab fa-instagram" style="font-size:20px;margin-right: 20%">EspressoHouse_Denmark</i>
+        </div>
+        <div class="twitter">
+            <i class="fab fa-twitter" style="font-size:20px;margin-right: 20%">EspressoHouse_Denmark</i>
+        </div>
+        <div class="twitter">
+        </div>
+    </div>
+
+    <nav>
+        <p class="footr">
+            Espresso House
+            <br>
+            info_dk@espressohouse.com
+        </p>
+    </nav>
+</footer>
 
 </body>
 </html>

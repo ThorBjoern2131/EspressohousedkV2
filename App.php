@@ -9,6 +9,8 @@
     <!-- Sætter tegnsætning til utf-8 som bl.a. tillader danske bogstaver -->
     <meta charset="utf-8">
 
+    <script src="https://kit.fontawesome.com/26e840afe9.js" crossorigin="anonymous"></script>
+
     <!-- Titel som ses oppe i browserens tab mv. -->
     <title>Espresso House - Passionate About Coffee</title>
 
@@ -50,8 +52,7 @@
 </div>
 
 <br><br><br>
-
-<h1 style="text-align:center;">Error 404 Page Not Found</h1>
+<h1 style="text-align:center">Error 404 Page Not Found</h1>
 
 <center><img class="img" src="images/404coffee.png" alt="Error 404 Image Not Found" style="width:500px;height:500px;"></center>
 
@@ -77,6 +78,7 @@
         <div class="twitter">
         </div>
     </div>
+
     <nav>
         <p class="footr">
             Espresso House
