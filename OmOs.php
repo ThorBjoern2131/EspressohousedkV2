@@ -55,5 +55,36 @@
 
 <center><img class="img" src="images/404coffee.png" alt="Error 404 Image Not Found" style="width:500px;height:500px;"></center>
 
+<footer>
+    <nav>
+        <p class="footl">Åbningstider:
+            <br>
+            Mandag-Fredag: 07:00 - 19:00
+            <br>
+            Lørdag: 08:00 - 18:00
+            <br>
+            Søndag: 09:00 - 18:00
+        </p>
+    </nav>
+    <div class="topnav2">
+        <i class="fab fa-facebook" style="font-size:20px">Espresso House Denmark</i>
+        <div class="insta">
+            <i class="fab fa-instagram" style="font-size:20px;margin-right: 20%">EspressoHouse_Denmark</i>
+        </div>
+        <div class="twitter">
+            <i class="fab fa-twitter" style="font-size:20px;margin-right: 20%">EspressoHouse_Denmark</i>
+        </div>
+        <div class="twitter">
+        </div>
+    </div>
+    <nav>
+        <p class="footr">
+            Espresso House
+            <br>
+            info_dk@espressohouse.com
+        </p>
+    </nav>
+</footer>
+
 </body>
 </html>

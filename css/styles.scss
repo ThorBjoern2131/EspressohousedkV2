@@ -41,6 +41,7 @@ img {
   display:grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 1fr;
+  background-color: #B0C3A7;
 }/*auto, 1fr, 5%, 5 px, */
 
 .Logo {
@@ -50,7 +51,6 @@ img {
   max-width: 100%;
   margin-left: 16%;
   margin-top: 0.5%;
-
 }
 
 
@@ -74,10 +74,8 @@ img {
   grid-template-columns: auto;
   grid-template-rows: repeat(1, 1fr);
   list-style: none;
-  gap: 2%;
   text-decoration: none;
-  margin-top: 2%;
-  color: #000;
+  color: #D9D3C2;
   font-size: 3.5vw;
   grid-column: 1/4;
   grid-row: 1/2;
@@ -87,6 +85,13 @@ img {
 .topnav {
   overflow: hidden;
   background-color: #483B06;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
+
+.card {
+  font-family: Arial;
 }
 
 /* Style the topnav links "Menu" */
@@ -102,7 +107,7 @@ img {
 /* Change color on hover "Menu" */
 .topnav a:hover {
   background-color: #87B29E;
-  color: black;
+  color: #D9D3C2;
   display: block;
 }
 

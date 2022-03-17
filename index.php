@@ -60,7 +60,7 @@
             <br>
                 <center><p>Her har vi et stort udvalg af klimavenlige kaffe, kage, te og meget mere! <br><br>
                 Kom forbi et af vores mange lokationer, hvor du enten kan nyde noget varmt med en bekendt eller noget koldt over en bog. <br></center>
-            <center><img class="Hero" src="images/EspressoApp1.jpg" alt="Error 404 Image Not Found" style="width:1400px;"></center>
+            <center><img class="Hero" src="images/EspressoApp2.jpg" alt="Error 404 Image Not Found" style="width:80%;"></center>
             <br>
             <center><p>I denne måned kører vi 10% rabat på hele vores sortiment af varm chokolade. <br>
                 Alt på vores kaffe menu kan alternativt laves plantebaseret, så den passer til en hver smag.
@@ -97,9 +97,9 @@
         </div>
         <nav>
             <p class="footr">
-                Espresso House
+                 Espresso House
                 <br>
-                info_dk@espressohouse.com
+                 info_dk@espressohouse.com
             </p>
         </nav>
     </footer>
