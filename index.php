@@ -38,6 +38,7 @@
 <body>
 
 <div class="grid-container">
+    <div class="empty"></div>
     <a href="index.php">
         <div class="Logo">
             <img class="Logo" src="images/EspressoLogo.png" alt="Espresso Logo">
@@ -72,7 +73,7 @@
 
 <div class="grid-container">
     <div class="topnav2">
-        <i class="fab fa-facebook" style="font-size:50px";>Espresso House Denmark</i>
+        <i class="fab fa-facebook" style="font-size:50px" >Espresso House Denmark</i>
         <div class="insta">
             <i class="fab fa-instagram" style="font-size:50px;margin-right: 20%">EspressoHouse_Denmark</i>
         </div>
