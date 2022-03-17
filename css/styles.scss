@@ -8,7 +8,7 @@ body {
   margin: 0; /* Ingen kanter i siden af browser */
   background-image: url("images/VaffelBaggrund.png");
   background-size: 2000px 2000px;
-  background-color: orange;
+  background-color: #b0c3a7;
 
 }
 
@@ -138,11 +138,6 @@ img {
   justify-self: center;
 }
 
-.voresis {
-  grid-column: 2/6;
-  grid-row: 1/end;
-  font-size: 25px;
-  font-weight: bold;
 }
 
 
@@ -168,7 +163,7 @@ img {
   gap: 2%;
   text-decoration: none;
   margin-top: 13%;
-  color: #111;
+  color: #312417;
   font-size: 3.5vw;
   grid-column: 2/4;
   grid-row: 1/2;
@@ -177,7 +172,7 @@ img {
 /* Style the top navigation bar "Title" */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #312417;
 }
 
 /* Style the topnav links "Title" */
