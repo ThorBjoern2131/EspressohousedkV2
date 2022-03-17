@@ -49,7 +49,7 @@
 <br><br><br>
 <h1 style="text-align:center">Error 404 Page Not Found</h1>
 
-<img src="images/404coffee.png" alt="Error 404 Image Not Found" style="width:500px;height:500px;">
+<center><img class="img" src="images/404coffee.png" alt="Error 404 Image Not Found" style="width:500px;height:500px;"></center>
 
 </body>
 </html>
