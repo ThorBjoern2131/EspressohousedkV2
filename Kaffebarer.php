@@ -34,7 +34,7 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 <div class="header">
-    <h1 id="grad1"><a href="index.php" style="font-size:100px;color:black;text-decoration: none"></a>Stormweaver></h1>
+    <h1 id="grad1"><a href="index.php" style="font-size:100px;color:black;text-decoration: none"></a>Espresso House</h1>
 </div>
 
 <div class="topnav">
