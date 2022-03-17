@@ -34,14 +34,18 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
-
-<div class="header">
-    <h1 id="grad1"><a href="index.php" style="font-size:100px;color:black;text-decoration: none"></a>Espresso House</h1>
+<div class="grid-container">
+    <div class="empty"></div>
+    <a href="index.php">
+        <div class="Logo">
+            <img class="Logo" src="images/EspressoLogo.png" alt="Espresso Logo">
+        </div> </a>
 </div>
 
+
 <div class="topnav">
-    <a href="index.php" style="font-size:30px;">Om os</a>
-    <a href="OmOs.php" style="font-size:30px;">App</a>
+    <a href="index.php" style="font-size:30px;">Home</a>
+    <a href="OmOs.php" style="font-size:30px;">Om os</a>
     <a href="App.php" style="font-size:30px;">kaffebarer</a>
     <a href="Kaffebarer.php" style="font-size:30px;">App</a>
 </div>
