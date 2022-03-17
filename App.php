@@ -39,10 +39,15 @@
         <img class="Logo" src="images/EspressoLogo.png" alt="Espresso Logo">
     </div> </a>
 
+
+<div class="header">
+    <h1 id="grad1"><a href="index.php" style="font-size:100px;color:black;text-decoration: none">Espresso House</a></h1>
+</div>
+
 <div class="topnav">
-    <a href="index.php" style="font-size:30px;">Home</a>
-    <a href="OmOs.php" style="font-size:30px;">Om Os</a>
-    <a href="App.php" style="font-size:30px;">Kaffebarer</a>
+    <a href="index.php" style="font-size:30px;">Om os</a>
+    <a href="OmOs.php" style="font-size:30px;">App</a>
+    <a href="App.php" style="font-size:30px;">kaffebarer</a>
     <a href="Kaffebarer.php" style="font-size:30px;">App</a>
 </div>
 
@@ -50,7 +55,7 @@
 
 <h1 style="text-align:center">Error 404 Page Not Found</h1>
 
-<img class="img" src="images/404coffee.png" alt="Error 404 Image Not Found" style="width:500px;height:500px;">
+<center><img class="img" src="images/404coffee.png" alt="Error 404 Image Not Found" style="width:500px;height:500px;"></center>
 
 
 </body>
