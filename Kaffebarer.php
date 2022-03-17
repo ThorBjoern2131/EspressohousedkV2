@@ -44,10 +44,10 @@
 
 
 <div class="topnav">
-    <a href="index.php" style="font-size:30px;font-family: Arial;">Home</a>
-    <a href="OmOs.php" style="font-size:30px;font-family: Arial;">Om Os</a>
-    <a href="App.php" style="font-size:30px;font-family: Arial;">Kaffebarer</a>
-    <a href="Kaffebarer.php" style="font-size:30px;font-family: Arial;">App</a>
+    <a href="index.php" style="font-size:30px;font-family: Arial,serif;">Home</a>
+    <a href="OmOs.php" style="font-size:30px;font-family: Arial,serif;">Om Os</a>
+    <a href="App.php" style="font-size:30px;font-family: Arial,serif;">Kaffebarer</a>
+    <a href="Kaffebarer.php" style="font-size:30px;font-family: Arial,serif;">App</a>
 </div>
 
 <br><br><br>
