@@ -17,7 +17,7 @@
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
-    <meta name="keywords" content="Espresso house,kaffe bar,">
+    <meta name="keywords" content="Espresso house,kaffe butikker,">
     <meta property="og:title" content="Espresso house - Passionate About Coffe"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="https://www.EspressohousedkV2.dk"/>
