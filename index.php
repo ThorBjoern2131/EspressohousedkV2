@@ -21,7 +21,7 @@
     <meta property="og:title" content="Espresso house - Passionate About Coffe"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="https://www.EspressohousedkV2.dk"/>
-    <meta property="og:image" content="https://www.EspressohousedkV2.dk/images/EspressoLogo.png"/>
+    <meta property="og:image" content=""/>
     <meta property="og:description" content=""/>
     <meta property="og:locale" content="da_DK"
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
@@ -47,7 +47,7 @@
 <div class="topnav">
     <a href="index.php" style="font-size:30px;">Home</a>
     <a href="OmOs.php" style="font-size:30px;">Om Os</a>
-    <a href="App.php" style="font-size:30px;">kaffebarer</a>
+    <a href="App.php" style="font-size:30px;">Kaffebarer</a>
     <a href="Kaffebarer.php" style="font-size:30px;">App</a>
 </div>
 
