@@ -17,11 +17,11 @@
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
-    <meta name="keywords" content="Espresso house,kaffe butikker,">
+    <meta name="keywords" content="Espresso house,">
     <meta property="og:title" content="Espresso house - Passionate About Coffe"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="https://www.EspressohousedkV2.dk"/>
-    <meta property="og:image" content="https://www.EspressohouseskV2.dk/images/EspressoLogo.png"/>
+    <meta property="og:image" content=""/>
     <meta property="og:description" content=""/>
     <meta property="og:locale" content="da_DK"
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
@@ -37,15 +37,16 @@
 
 <a href="index.php">
     <div class="Logo">
-            <img class="Logo" src="images/EspressoLogo.png" alt="Espresso Logo">
-        </div></a>
-<br><br>
+        <img class="Logo" src="images/EspressoLogo.png" alt="Espresso Logo">
+    </div> </a>
 
-
+<div class="header">
+    <h1 style="font-size:100px;" id="grad1">Espresso House</h1>
+</div>
 
 <div class="topnav">
-    <a href="index.php" style="font-size:30px;">Om os</a>
-    <a href="OmOs.php" style="font-size:30px;">App</a>
+    <a href="index.php" style="font-size:30px;">Home</a>
+    <a href="OmOs.php" style="font-size:30px;">Om Os</a>
     <a href="App.php" style="font-size:30px;">kaffebarer</a>
     <a href="Kaffebarer.php" style="font-size:30px;">App</a>
 </div>
