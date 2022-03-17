@@ -55,10 +55,12 @@
 </div>
 
 <div class="row">
-    <div class="leftcolumn" style="background-color:#f1f1f1;">
+    <div class="leftcolumn" style="background-color:#ffffff;">
         <div class="card">
-            <h2>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM</h2>
-            <p>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM
+            <br><br>
+            <center><h1>Velkommen til Espresso House!</h1></center>
+                <center><p>Her har vi et stort udvalg af klimavenlige kaffe, kage, te og meget mere! <br><br>
+                Kom forbi et af vores mange lokationer, hvor du enten kan nyde noget varmt med en bekendt eller noget koldt over en bog. <br></center>
             <center><img class="Hero" src="images/EspressoApp1.jpg" alt="Error 404 Image Not Found" style="width:1400px;"></center>
             <br>
             <p>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM</p>
