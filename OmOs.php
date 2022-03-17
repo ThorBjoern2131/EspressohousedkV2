@@ -63,10 +63,9 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
-<a href="OmOs.php">
-    <div class="Logo">
-        <img class="Logo" src="images/EspressoLogo.png" alt="Espresso Logo">
-    </div> </a>
+<div class="header">
+    <h1 id="grad1"><a href="index.php" style="font-size:100px;color:black;text-decoration: none">EspressoHouseDK<a/></h1>
+</div>
 
 <div class="topnav">
     <a href="index.php" style="font-size:30px;">Om os</a>
