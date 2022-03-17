@@ -85,7 +85,7 @@
             </p>
         </nav>
         <div class="topnav2">
-            <i class="fab fa-facebook" style="font-size:20px";>Espresso House Denmark</i>
+            <i class="fab fa-facebook" style="font-size:20px">Espresso House Denmark</i>
             <div class="insta">
                 <i class="fab fa-instagram" style="font-size:20px;margin-right: 20%">EspressoHouse_Denmark</i>
             </div>
