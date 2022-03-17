@@ -17,11 +17,11 @@
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
-    <meta name="keywords" content="Espresso house,">
+    <meta name="keywords" content="Espresso house, kaffe bar">
     <meta property="og:title" content="Espresso house - Passionate About Coffe"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="https://www.EspressohousedkV2.dk"/>
-    <meta property="og:image" content=""/>
+    <meta property="og:image" content="https://www.EspressohousedkV2.dk/images/EspressoLogo.png"/>
     <meta property="og:description" content=""/>
     <meta property="og:locale" content="da_DK"
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
@@ -34,7 +34,7 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 <div class="header">
-    <h1 id="grad1"><a href="index.php" style="font-size:100px;color:black;text-decoration: none"></a>Stormweaver></h1>
+    <h1 id="grad1"><a href="index.php" style="font-size:100px;color:black;text-decoration: none"></a>Espresso House</h1>
 </div>
 
 <div class="topnav">
