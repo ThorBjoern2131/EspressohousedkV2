@@ -52,7 +52,7 @@
 <br><br><br>
 <h1 style="text-align:center">Error 404 Page Not Found</h1>
 
-<center><div class="404"><a href="index.html"><img src="images/404coffee.png" alt="404" width="600"></a></div></center>
+<center><div class="404"><a href="index.php"><img src="images/404coffee.png" alt="404" width="600"></a></div></center>
 
 </body>
 </html>
