@@ -108,7 +108,6 @@ img {
   grid-column: 1/3;
   grid-row: 1/2;
   overflow: hidden;
-  background-color: #966946;
   margin: 0.2fr;
   font-size: 2px;
 }
@@ -127,4 +126,26 @@ img {
   background-color: #ddd;
   color: black;
   display: block;
+
+}
+
+
+footer {
+  background: #111;
+  color: white;
+  padding: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.footr {
+  text-align: right;
+  float: left;
+}
+
+
+header, footer {
+  border-radius: 15px;}
 }
