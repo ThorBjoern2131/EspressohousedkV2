@@ -10,7 +10,7 @@
     <meta charset="utf-8">
 
     <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Espresso House - Passionate About Coffee</title>
+    <title>Espresso House - App</title>
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
     <meta name="description" content="Espresso house homepage">
@@ -31,10 +31,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
-
 <a href="index.php">
     <div class="Logo">
         <img class="Logo" src="images/EspressoLogo.png" alt="Espresso Logo">
@@ -51,43 +49,11 @@
     <a href="Kaffebarer.php" style="font-size:30px;">App</a>
 </div>
 
-<div class="row">
-    <div class="leftcolumn" style="background-color:#f1f1f1;">
-        <div class="card">
-            <h2>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM</h2>
-            <p>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM
-            <img class="img" src="images/EspressoApp1.jpg" alt="Error 404 Image Not Found" style="width:1400px;height:800px;">
-            <br>
-            <p>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM</p>
-            <p>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM</p>
-            <br>
-            <h3>twitter.com/EspressoHouseDK</h3>
-            <br>
-            <h3>Email - EspressoHouseDK.com</h3>
-        </div>
-    </div>
+<br><br><br>
 
-    <div class="rightcolumn" style="background-color:#f1f1f1;">
-        <div class="card">
-            <h2>EspressoHouseDK</h2>
-            <img class="img" src="images/EspressoApp2.jpg" alt="Error 404 Image Not Found" style="width:600px;height:300px">
-            <p>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM</p>
-        </div>
-        <div class="card">
-            <h3>LOREM IPSUM</h3>
-            <img class="img" src="images/Billede3.jpg" alt="Error 404 Image Not Found" style="width:600px;height:300px;">
-        </div>
-        <div class="card">
-            <h3>LOREM IPSUM</h3>
-            <p>LOREM IPSUMLOREM IPSUMLOREM IPSUMLOREM IPSUM</p>
-        </div>
-    </div>
-    <div class="footer">
-        <br>
-        <h2>LOREM IPSUMLOREM IPSUM</h2>
-    </div>
-    <div id="grad"></div>
-</div>
+<h1 style="text-align:center">Error 404 Page Not Found</h1>
+
+<img class="img" src="images/giphy.gif" alt="Error 404 Image Not Found" style="width:500px;height:500px;">
 
 
 </body>
